@@ -1,2 +1,2 @@
-# Temperature-conversion-program
-Temperature conversion program in Python
+# Temperature-conversion
+A temperature conversion program written in Python
